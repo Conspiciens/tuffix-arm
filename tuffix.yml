@@ -232,7 +232,7 @@
     - name: Add Bazel GPG key to trusted keys and add the PPM to the APT source list
       shell: |
         cat /tmp/bazel-release.pub.gpg | gpg --dearmor > /etc/apt/trusted.gpg.d/bazel.gpg
-        echo "deb [arch=amd64] https://storage.googleapis.com/bazel-apt stable jdk1.8" | tee /etc/apt/sources.list.d/bazel.list
+        echo "deb [arch=arm64] https://storage.googleapis.com/bazel-apt stable jdk1.8" | tee /etc/apt/sources.list.d/bazel.list
 
     - name: Update repositories cache
       apt:
