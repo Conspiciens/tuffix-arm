@@ -2,8 +2,9 @@
 # tuffix: Tuffy's Linux
 
 # WARNING: Do not to attempt to install on M1 or ARM64 processors (Incomplete as of rn). 
-This fork repository serves to install Tuffix, but for ARM64 processors (M1 is considered a ARM64 Processor) (Incomplete) 
+This fork repository serves to install Tuffix, but for ARM64 processors (M1 is considered a ARM64 Processor)  
 Linux currently has no support for m1 processors (Execpt with Asahi Linux, which is in beta)  
+This repository remains incomplete  
 
 Official Linux environment for CPSC 120, 121, and 131 at California
 State University, Fullerton. Our mascot is Tuffy the elephant.
