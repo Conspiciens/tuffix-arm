@@ -177,9 +177,9 @@
          - libxcb-xtest0
          - ibus
 
-    - name: Linux Zoom Client (AMD 64)
-      apt:
-       deb: https://zoom.us/client/latest/zoom_amd64.deb
+    # - name: Linux Zoom Client (AMD 64)
+    #   apt:
+    #    deb: https://zoom.us/client/latest/zoom_amd64.deb
 
 #####################################################################
 # GitHub's gh utility
@@ -256,9 +256,9 @@
 
     # https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
     # https://go.microsoft.com/fwlink/?LinkID=760868
-    - name: VS Code Editor for AMD64
-      apt:
-        deb: https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
+    # - name: VS Code Editor for AMD64
+    #   apt:
+    #    deb: https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
 
 #####################################################################
 # cleanup
