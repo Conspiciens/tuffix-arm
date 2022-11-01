@@ -1,6 +1,8 @@
 
 # tuffix: Tuffy's Linux
 
+# WARNING: Do not to attempt to install on M1 or ARM64 processors (Incomplete as of rn). Linux currently has no support for m1 processors (Execpt with A Asahi Linux, which is in beta 
+
 Official Linux environment for CPSC 120, 121, and 131 at California
 State University, Fullerton. Our mascot is Tuffy the elephant.
 
