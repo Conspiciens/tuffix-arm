@@ -2,7 +2,7 @@
 
 # Use  the default environment defined TUFFIXYML_SRC
 # (see bash (1) Parameter Expansion)
-TUFFIXYML_SRC=${TUFFIXYML_SRC:-"https://raw.githubusercontent.com/Conspiciens/tuffix-arm/master/tuffixize.sh"}
+TUFFIXYML_SRC=${TUFFIXYML_SRC:-"https://raw.githubusercontent.com/Conspiciens/tuffix-arm/master/tuffix.yml"}
 
 TUFFIXYML=/tmp/tuffix.$$.yml
 
