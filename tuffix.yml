@@ -238,10 +238,10 @@
       apt:
         update_cache: yes
     
-    - name: Bazel
-      apt:
-        pkg:
-          - bazel
+    # - name: Bazel
+    #   apt:
+    #     pkg:
+    #       - bazel
 
     - name: Prerequisites for VS Code
       apt:
