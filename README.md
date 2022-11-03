@@ -1,7 +1,7 @@
 
 # tuffix: Tuffy's Linux
 
-# WARNING: Do not to attempt to install on M1 or ARM64 processors (Incomplete as of rn). 
+# WARNING: Do not to attempt to install on M1 or ARM64 processors (Complete, Message for any issues). 
 This fork repository serves to install Tuffix in a VM (UTM ONLY), but for ARM64 processors (Including M1 which is considered a ARM64 Processor)  
 Linux currently has no support for m1 processors for baremetal installations (Execpt with Asahi Linux, which is in beta)  
 
