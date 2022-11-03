@@ -4,12 +4,13 @@
 # WARNING: Do not to attempt to install on M1 or ARM64 processors (Incomplete as of rn). 
 This fork repository serves to install Tuffix in a VM (UTM ONLY), but for ARM64 processors (Including M1 which is considered a ARM64 Processor)  
 Linux currently has no support for m1 processors for baremetal installations (Execpt with Asahi Linux, which is in beta)  
-This repository remains incomplete  
+
 
 Link: https://drive.google.com/file/d/1WBnI7D49zE8iZ-i8hlfoHg0lYS6b23C-/view?usp=share_link
 
 Unforuntaley, Bazel, Virtual Studio Code and Zoom aren't installed currently
   Will look into installing Bazel and VSCode 
+
 For Bazel there's an arm64 installation kit: https://github.com/koenvervloesem/bazel-on-arm
 
 Official Linux environment for CPSC 120, 121, and 131 at California
