@@ -1,12 +1,13 @@
 
 # tuffix: Tuffy's Linux
 
-# WARNING: Do not to attempt to install on baremetal M1 or ARM64 processors USE UTM TO INSTALL (Complete, Message for any issues). 
+# WARNING: Do not to attempt to install on baremetal M1 or ARM64 processors USE UTM TO INSTALL (Status: Complete. Message for any issues). 
 This fork repository serves to install Tuffix in a VM (UTM ONLY), but for ARM64 processors (Including M1 which is considered a ARM64 Processor)  
-Linux currently has no support for m1 processors for baremetal installations (Execpt with Asahi Linux, which is in beta)  
+Linux currently has no support for m1 processors for baremetal installations (Execpt with Asahi Linux, which is in beta) 
 
+UTM Installation Link: https://mac.getutm.app/
 
-Link to UTM Tuffix installation: https://drive.google.com/file/d/1WBnI7D49zE8iZ-i8hlfoHg0lYS6b23C-/view?usp=share_link
+Link to Tuffix Virtual File installation for UTM: https://drive.google.com/file/d/1WBnI7D49zE8iZ-i8hlfoHg0lYS6b23C-/view?usp=share_link
 
 Unforuntaley, Bazel, Virtual Studio Code and Zoom aren't installed currently
   Will look into installing Bazel and VSCode 
